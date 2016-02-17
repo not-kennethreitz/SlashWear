@@ -1,4 +1,4 @@
-# SlashWear
+# SlashWear for MS-DOS
 
 My first user-facing software, compiles with Borland Turbo C++, in 6th grade.
 
