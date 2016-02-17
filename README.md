@@ -12,7 +12,9 @@ It features:
 
 Let the colors wash over you.
 
-*SplashDemo* is the highlight of the package, followed closely by *SplashSong* (make sure to have sound enabled!).
+***SplashDemo*** is the highlight of the package, followed closely by ***SplashSong*** (make sure to have sound enabled!).
+
+***SPLASHWEAR.EXE*** is the intended entrypoint for the suite. 
 
 The [original website](http://webpages.charter.net/reitzk/SplashWear.html) that hosted this software is still online. 
 
