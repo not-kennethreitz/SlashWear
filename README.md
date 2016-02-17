@@ -2,6 +2,14 @@
 
 My first user-facing software, compiles with Borland Turbo C++, in 6th grade.
 
+It features:
+
+- A glorious splash screen.
+- A pc-speaker theme song.
+- A colored DOS shell with customizable prompt.
+- A glimpse into the matrix.
+- Lots of easter eggs.
+
 Let the colors wash over you.
 
 *SplashDemo* is the highlight of the package, followed closely by *SplashSong* (make sure to have sound enabled!).
